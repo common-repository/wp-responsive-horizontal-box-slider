@@ -1,0 +1,23 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+/**
+ * @.metabox-holder
+ *
+ * Defined padding-top to zero
+ */
+.metabox-holder{
+    padding-top: 0 !important; /* overridding Default Style of wordpress  */
+}
+
+/**
+ * @.postbox
+ *
+ * Defined padding-left to 20 Pixel
+ */
+.postbox{
+    padding-left: 20px !important; /* overridding Default Style of wordpress  */
+}
